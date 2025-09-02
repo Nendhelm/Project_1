@@ -11,4 +11,5 @@ b = float(input())
 
 c = sum_calc(a=a, b=b)
 d = mul_calc(a=a, b=b)
+print(c)
 print(d)
