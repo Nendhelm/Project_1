@@ -1,9 +1,5 @@
-def sum_calc(a: float, b: float) -> float:
-    return a + b
-
-
-def mul_calc(a: float, b: float) -> float:
-    return a * b
+from mul import mul_calc
+from sum import sum_calc
 
 
 a = float(input())
